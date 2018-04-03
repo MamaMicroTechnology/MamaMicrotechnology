@@ -1,0 +1,4 @@
+var email=document.myform.email.value;
+    var name=document.myform.name.value;
+       var atpos=email.indexOf("@");
+       var dotpos=email.lastIndexOf(".");
